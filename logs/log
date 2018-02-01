@@ -1,0 +1,2041 @@
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [29/Jan/2018 17:05:56] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [29/Jan/2018 17:05:56] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [29/Jan/2018 17:05:56] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [29/Jan/2018 17:05:56] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [29/Jan/2018 17:05:56] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [29/Jan/2018 17:05:56] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [29/Jan/2018 17:05:56] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [29/Jan/2018 17:05:56] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [29/Jan/2018 17:05:56] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [29/Jan/2018 17:05:56] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [29/Jan/2018 17:05:56] "GET /api/v1.0/image_code?cur_id=221384dd-ba7b-49c8-a273-2d405fe7230a&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [29/Jan/2018 17:05:56] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:00:29] "GET / HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:00:39] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:00:39] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:00:39] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:00:39] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:00:39] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:00:39] "GET /static/css/ihome/index.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:00:39] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:00:39] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:00:41] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:00:41] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:00:41] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:00:41] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:00:41] "GET /static/js/template.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:00:41] "GET /static/js/ihome/index.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:00:41] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:00:42] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 304 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:47] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:47] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:47] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:47] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:47] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:48] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:48] "GET /static/css/reset.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:48] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:48] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:48] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:48] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:50] "GET /api/v1.0/image_code?cur_id=1c55d8e3-53ea-4a42-bfc2-547f18e99b3b&pre_id= HTTP/1.1" 200 -
+%s %s:%d Error on request:
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/Flask_py/lib/python2.7/site-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/home/python/.virtualenvs/Flask_py/lib/python2.7/site-packages/werkzeug/serving.py", line 261, in execute
+    write(data)
+  File "/home/python/.virtualenvs/Flask_py/lib/python2.7/site-packages/werkzeug/serving.py", line 227, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:51] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:51] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:51] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:51] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:51] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:51] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:51] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:51] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:51] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:51] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:52] "GET /api/v1.0/image_code?cur_id=f4817875-796b-42cd-b763-45c0b5503e09&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:52] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:09:58] "GET /api/v1.0/image_code?cur_id=24bc398b-7e32-4453-a9a3-209eb78672f6&pre_id=f4817875-796b-42cd-b763-45c0b5503e09 HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:11:58] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:11:58] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:11:58] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:11:58] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:11:58] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:11:58] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:11:58] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:11:58] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:11:58] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:11:58] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:11:59] "GET /api/v1.0/image_code?cur_id=20aff0a3-0341-4b3f-a841-2f48b872cc34&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:11:59] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:15:22] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:15:24] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:15:24] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:15:24] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:15:24] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:15:24] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:15:24] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:15:24] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:15:24] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:15:24] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:15:25] "GET /api/v1.0/image_code?cur_id=5991e726-53f2-445a-9988-b75a7057fe38&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:15:26] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d The CSRF token is missing.
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:15:29] "POST /api/v1.0/sms_code HTTP/1.1" 400 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:06] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:07] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:07] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:07] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:07] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:07] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:07] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:07] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:07] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:07] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:07] "GET /api/v1.0/image_code?cur_id=f9f032fa-be74-4181-88d5-f7c644a1ec3c&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:07] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:09] "POST /sms_code HTTP/1.1" 405 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:27] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:27] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:27] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:27] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:27] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:27] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:27] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:27] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:27] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:27] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:27] "GET /api/v1.0/image_code?cur_id=89863eb9-3af7-49ba-8ee4-ebd6b03e8230&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:27] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:18:29] "POST /api/v1.0/sms_code HTTP/1.1" 500 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:19:19] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:19:19] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:19:19] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:19:19] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:19:19] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:19:19] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:19:19] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:19:19] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:19:19] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:19:19] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:19:19] "GET /api/v1.0/image_code?cur_id=d81b0538-3b82-4e41-8269-99fa7fb2ad14&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:19:19] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:19:21] "POST /api/v1.0/sms_code HTTP/1.1" 500 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:20:41] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:20:41] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:20:41] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:20:42] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:20:42] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:20:42] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:20:42] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:20:42] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:20:42] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:20:42] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:20:42] "GET /api/v1.0/image_code?cur_id=14393873-def3-4127-b9b1-8c3fd375e39a&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:20:42] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:20:43] "POST /api/v1.0/sms_code HTTP/1.1" 500 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:39] "GET / HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:39] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:39] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:39] "GET /static/css/reset.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:39] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:39] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:39] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:39] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:39] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:39] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:39] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:39] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:39] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:39] "GET /static/js/template.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:39] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:39] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:39] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:40] "GET /register.html HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:40] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:40] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:41] "GET /api/v1.0/image_code?cur_id=041cf32b-613f-4311-a7ae-cc4e05b991ab&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:21:43] "POST /api/v1.0/sms_code HTTP/1.1" 500 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:27] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:28] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:28] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:28] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:28] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:28] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:28] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:28] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:28] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:28] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:28] "GET /api/v1.0/image_code?cur_id=b880f6cf-1414-4d71-aed3-849198e0ad2a&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:28] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:28] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:28] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:28] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:28] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:28] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:28] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:28] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:28] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:28] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:28] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:29] "GET /api/v1.0/image_code?cur_id=a80f70b5-8fdf-486b-bf92-235bc5f4dace&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:29] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:23:30] "POST /api/v1.0/sms_code HTTP/1.1" 500 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:07] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:07] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:07] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:07] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:07] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:07] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:07] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:07] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:07] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:07] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:07] "GET /api/v1.0/image_code?cur_id=9776b4eb-efa1-47fc-8ac6-50fb0029ce36&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:07] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:09] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:25] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:25] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:25] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:25] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:25] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:25] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:25] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:25] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:25] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:25] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:25] "GET /api/v1.0/image_code?cur_id=61227a81-8b49-4668-b5c5-fd287a22f89e&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:25] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:26:27] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:28:28] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:28:29] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:28:29] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:28:29] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:28:29] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:28:29] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:28:29] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:28:29] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:28:29] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:28:29] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:28:29] "GET /api/v1.0/image_code?cur_id=df167c35-9e91-4922-9264-3348452c868f&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:28:29] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:28:31] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:29:38] "GET /api/v1.0/image_code?cur_id=ad2d64f2-0b8c-4d8b-8bdc-96571d840ccf&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:29:40] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:29:49] "GET /api/v1.0/image_code?cur_id=a4c3b97d-3635-4551-844d-5acd392b8bab&pre_id=ad2d64f2-0b8c-4d8b-8bdc-96571d840ccf HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:29:57] "GET /api/v1.0/image_code?cur_id=9c6ce473-d8f7-4f79-88a6-6b329b11ecb9&pre_id=a4c3b97d-3635-4551-844d-5acd392b8bab HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:29:57] "GET /api/v1.0/image_code?cur_id=97893313-9b42-485f-a396-ba2a2fa0ebad&pre_id=9c6ce473-d8f7-4f79-88a6-6b329b11ecb9 HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:30:25] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:30:25] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:30:25] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:30:25] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:30:25] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:30:25] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:30:25] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:30:25] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:30:25] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:30:25] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:30:25] "GET /api/v1.0/image_code?cur_id=48b9b927-5a55-452a-9a52-9d4280d2d290&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:30:25] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:30:27] "GET /api/v1.0/image_code?cur_id=17b4221d-51ab-4db0-b391-b64daa545d77&pre_id=48b9b927-5a55-452a-9a52-9d4280d2d290 HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:31:26] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:31:27] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:31:27] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:31:27] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:31:27] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:31:27] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:31:27] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:31:27] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:31:27] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:31:27] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:31:27] "GET /api/v1.0/image_code?cur_id=1e0dc86d-f8cc-4bf4-89fc-abe926ad2c5e&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:31:27] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:31:29] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:32:13] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:32:13] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:32:13] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:32:13] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:32:13] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:32:13] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:32:13] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:32:13] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:32:13] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:32:13] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:32:14] "GET /api/v1.0/image_code?cur_id=210831d3-9b15-4486-89ed-14281ecd0d2f&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:32:14] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:32:19] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:33:02] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:33:02] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:33:02] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:33:02] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:33:02] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:33:02] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:33:02] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:33:02] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:33:02] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:33:02] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:33:02] "GET /api/v1.0/image_code?cur_id=dbe99321-c32a-4288-9c76-91247db51115&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:33:02] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:34:07] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:34:25] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:34:25] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:34:26] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:34:26] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:34:26] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:34:26] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:34:26] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:34:26] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:34:26] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:34:26] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:34:26] "GET /api/v1.0/image_code?cur_id=0921fc7e-45a2-435f-878c-9328548d3c70&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:34:26] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:11] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:11] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:11] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:11] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:11] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:11] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:11] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:11] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:11] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:11] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:11] "GET /api/v1.0/image_code?cur_id=461083f4-d94f-45d1-a053-bab779a158fa&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:11] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:26] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:26] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:26] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:26] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:26] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:26] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:26] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:26] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:26] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:26] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:26] "GET /api/v1.0/image_code?cur_id=a3c50755-0271-4b17-accc-d65ccd89e295&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:26] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:36:36] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:38:00] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:38:00] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:38:00] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:38:00] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:38:00] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:38:00] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:38:00] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:38:00] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:38:00] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:38:00] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:38:01] "GET /api/v1.0/image_code?cur_id=cac5397e-cbcb-4706-b6d3-ec59b48530d5&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:38:01] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:38:05] "GET /api/v1.0/image_code?cur_id=b3cd9425-87a7-4770-bac4-aedb654ced0a&pre_id=cac5397e-cbcb-4706-b6d3-ec59b48530d5 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:38:12] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:07] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:07] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:08] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:08] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:08] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:08] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:08] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:08] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:08] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:08] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:08] "GET /api/v1.0/image_code?cur_id=a8033147-153d-457f-9a99-8aafdf050a04&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:08] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:16] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:35] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:35] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:35] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:35] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:35] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:35] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:35] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:35] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:35] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:35] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:36] "GET /api/v1.0/image_code?cur_id=0233ed2c-40e4-4c3a-af72-eaab5bceb847&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:40:36] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:41:57] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:41:57] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:41:57] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:41:58] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:41:58] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:41:58] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:41:58] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:41:58] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:41:58] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:41:58] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:41:58] "GET /api/v1.0/image_code?cur_id=a542856e-c0e7-42e9-91d8-bfcd404ac84e&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:41:58] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:42:01] "GET /api/v1.0/image_code?cur_id=389e9b47-715b-4993-91b3-1c30ce4b6e2f&pre_id=a542856e-c0e7-42e9-91d8-bfcd404ac84e HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:44:50] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:44:50] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:44:50] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:44:50] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:44:50] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:44:50] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:44:50] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:44:50] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:44:50] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:44:50] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:44:50] "GET /api/v1.0/image_code?cur_id=cf019441-0568-47bd-8aa9-f050c388e3d7&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:44:50] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:44:51] "GET /api/v1.0/image_code?cur_id=6e5b8373-7f46-4cb4-b449-aac913635a46&pre_id=cf019441-0568-47bd-8aa9-f050c388e3d7 HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:45:15] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:45:15] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:45:15] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:45:15] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:45:15] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:45:15] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:45:15] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:45:15] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:45:15] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:45:15] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:45:15] "GET /api/v1.0/image_code?cur_id=430431d0-d146-4604-9253-4b336f0e98b4&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:45:15] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:45:16] "GET /api/v1.0/image_code?cur_id=44e83ba6-d4da-4388-bac1-5519e8080157&pre_id=430431d0-d146-4604-9253-4b336f0e98b4 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 11:45:19] "GET /api/v1.0/image_code?cur_id=d1ff7f8d-3ddd-443b-a580-554f80a12304&pre_id=44e83ba6-d4da-4388-bac1-5519e8080157 HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:09:53] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:09:54] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:09:54] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:09:54] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:09:54] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:09:54] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:09:54] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:09:54] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:09:54] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:09:54] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：UTOL
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:09:54] "GET /api/v1.0/image_code?cur_id=f5dab9e1-344c-4aaf-b2d8-5eabb74728d5&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:09:54] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 图片验证码为：BE6L
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:09:56] "GET /api/v1.0/image_code?cur_id=7acddbfe-b945-41e8-ace9-74a33bb53f8a&pre_id=f5dab9e1-344c-4aaf-b2d8-5eabb74728d5 HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:141804
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:10:12] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:12:42] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:12:42] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:12:42] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:12:42] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:12:42] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:12:42] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:12:42] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:12:42] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:12:42] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:12:42] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：DFYV
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:12:42] "GET /api/v1.0/image_code?cur_id=06c436bd-b2a0-45c4-84df-bb747e920e92&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:12:42] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:780500
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 13:12:56] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:03:25] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:03:25] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:03:25] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:03:25] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:03:25] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:03:25] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:03:25] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:03:25] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:03:25] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:03:25] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：YFBG
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:03:26] "GET /api/v1.0/image_code?cur_id=0fed9ed3-5552-4194-b7b3-2f638405d55a&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:03:26] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:679998
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:03:38] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 图片验证码为：HE4I
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:03:44] "GET /api/v1.0/image_code?cur_id=b9560fab-69b3-4194-976a-a87e6cb08048&pre_id=0fed9ed3-5552-4194-b7b3-2f638405d55a HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:48:43] "GET / HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:48:43] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:48:43] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:48:44] "GET /static/css/ihome/index.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:48:44] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:48:44] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:48:44] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:48:44] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:48:44] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:48:44] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:48:44] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:48:44] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:48:44] "GET /static/js/template.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:48:44] "GET /static/js/ihome/index.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:48:44] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:48:44] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:48:44] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 图片验证码为：YUDR
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:48:46] "GET /api/v1.0/image_code?cur_id=3a2363f3-24d7-4b66-8ee1-8c36850dc687&pre_id= HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:559021
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:49:06] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 图片验证码为：TAJ6
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:49:09] "GET /api/v1.0/image_code?cur_id=b5c91764-a4f1-45bc-a2a2-4c6de5cdec3d&pre_id=3a2363f3-24d7-4b66-8ee1-8c36850dc687 HTTP/1.1" 200 -
+%s %s:%d 图片验证码为：YURO
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:49:21] "GET /api/v1.0/image_code?cur_id=0993094a-a240-4d7b-ba9f-45c1c39ed7a9&pre_id=b5c91764-a4f1-45bc-a2a2-4c6de5cdec3d HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:297430
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:49:30] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 图片验证码为：XDEB
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:49:38] "GET /api/v1.0/image_code?cur_id=80b44db1-d0a6-4829-9013-738ffb653812&pre_id=0993094a-a240-4d7b-ba9f-45c1c39ed7a9 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:49:51] "GET /register.html?mobile=13676718027&imagecode=YURO&phonecode=297430&password=11&password2=11 HTTP/1.1" 200 -
+%s %s:%d 图片验证码为：QGOI
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:49:54] "GET /api/v1.0/image_code?cur_id=9d1d76d6-d0a4-46b6-8b04-a62a098ced2f&pre_id= HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:51:55] "GET /register.html?mobile=13676718027&imagecode=YURO&phonecode=297430&password=11&password2=11 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:52:00] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:52:00] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:52:00] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:52:00] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:52:00] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:52:00] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:52:00] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:52:00] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:52:00] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 200 -
+%s %s:%d 图片验证码为：G6WX
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:52:03] "GET /api/v1.0/image_code?cur_id=393b8863-406c-4bfc-aaa4-9d0cb579f2f0&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:52:03] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:990276
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:52:17] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:52:27] "POST /api/v1.0/users HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:141553
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:52:35] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:52:44] "POST /api/v1.0/users HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:55:23] "GET /register.html?mobile=13676718027&imagecode=YURO&phonecode=297430&password=11&password2=11 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:55:23] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:55:23] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:55:23] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:55:23] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:55:23] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:55:23] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:55:23] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:55:23] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:55:23] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：EDRF
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:55:24] "GET /api/v1.0/image_code?cur_id=7b97c99c-fe4d-460c-9607-6b627429701b&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:55:24] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:716476
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:55:36] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:58:39] "GET /register.html?mobile=13676718027&imagecode=YURO&phonecode=297430&password=11&password2=11 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:58:40] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:58:40] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:58:40] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:58:40] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:58:40] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:58:40] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:58:40] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:58:40] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:58:40] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：JGAA
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:58:40] "GET /api/v1.0/image_code?cur_id=278aadd0-e1c3-402f-986d-d429e976704b&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:58:40] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:726323
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:58:51] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 14:59:08] "POST /api/v1.0/users HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:01:05] "GET /register.html?mobile=13676718027&imagecode=YURO&phonecode=297430&password=11&password2=11 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:01:05] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:01:05] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:01:05] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:01:05] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:01:05] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:01:05] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:01:05] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:01:05] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:01:05] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：WO5X
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:01:06] "GET /api/v1.0/image_code?cur_id=886ae2be-e257-4e33-9c6f-abb53792b8c8&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:01:06] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:605104
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:01:15] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:01:33] "POST /api/v1.0/users HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:04:24] "GET /register.html?mobile=13676718027&imagecode=YURO&phonecode=297430&password=11&password2=11 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:04:24] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:04:24] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:04:24] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:04:24] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:04:24] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:04:24] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:04:24] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:04:24] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:04:24] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：NGVU
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:04:24] "GET /api/v1.0/image_code?cur_id=7b575435-010e-4e6e-a540-9dede231ed57&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:04:24] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:920694
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:04:38] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:08:59] "GET /register.html?mobile=13676718027&imagecode=YURO&phonecode=297430&password=11&password2=11 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:08:59] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:08:59] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:08:59] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:08:59] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:08:59] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:08:59] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:08:59] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:09:00] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:09:00] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：QFP5
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:09:00] "GET /api/v1.0/image_code?cur_id=7a878cbf-096a-4f6b-8b05-d9071125f4a8&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:09:00] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:465132
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:09:11] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:10:37] "GET /register.html?mobile=13676718027&imagecode=YURO&phonecode=297430&password=11&password2=11 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:10:37] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:10:37] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:10:37] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:10:37] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:10:37] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:10:37] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:10:37] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:10:37] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:10:37] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：XGLE
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:10:37] "GET /api/v1.0/image_code?cur_id=72314aea-8022-4cb1-8b47-65a4d1faae24&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:10:37] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:354707
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:10:46] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d (_mysql_exceptions.OperationalError) (1048, "Column 'password_hash' cannot be null") [SQL: u'INSERT INTO ih_user_profile (create_time, update_time, name, password_hash, mobile, real_name, id_card, avatar_url) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)'] [parameters: (datetime.datetime(2018, 1, 30, 15, 10, 57, 424129), datetime.datetime(2018, 1, 30, 15, 10, 57, 424216), '13676718027', None, '13676718027', None, None, None)]
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:10:58] "POST /api/v1.0/users HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:18:36] "GET /register.html?mobile=13676718027&imagecode=YURO&phonecode=297430&password=11&password2=11 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:18:36] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:18:36] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:18:36] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:18:36] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:18:36] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:18:36] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:18:36] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:18:36] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:18:36] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：B5XI
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:18:37] "GET /api/v1.0/image_code?cur_id=788bfa89-3a08-48d6-9cd7-c7d9e7a6c208&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:18:37] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d The CSRF token is missing.
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:19:32] "POST /api/v1.0/sms_code HTTP/1.1" 400 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:15] "GET /register.html?mobile=13676718027&imagecode=YURO&phonecode=297430&password=11&password2=11 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:16] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:16] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:16] "GET /static/css/reset.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:17] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:17] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:17] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:17] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:17] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:17] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:17] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+%s %s:%d 图片验证码为：QJSL
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:18] "GET /api/v1.0/image_code?cur_id=56019768-67b9-4f7c-b426-aeb95b5343cb&pre_id= HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:122162
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:26] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:45] "GET /register.html?mobile=13676718027&imagecode=YURO&phonecode=297430&password=11&password2=11 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:45] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:45] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:45] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:45] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:45] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:45] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:45] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:45] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:45] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：QFEN
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:46] "GET /api/v1.0/image_code?cur_id=0f8ed079-f699-4833-bbf1-43c8b4986fb6&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:46] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:299928
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:20:55] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d (_mysql_exceptions.OperationalError) (1048, "Column 'password_hash' cannot be null") [SQL: u'INSERT INTO ih_user_profile (create_time, update_time, name, password_hash, mobile, real_name, id_card, avatar_url) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)'] [parameters: (datetime.datetime(2018, 1, 30, 15, 21, 56, 131489), datetime.datetime(2018, 1, 30, 15, 21, 56, 131600), '13676718027', None, '13676718027', None, None, None)]
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:23:12] "GET /register.html?mobile=13676718027&imagecode=YURO&phonecode=297430&password=11&password2=11 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:23:12] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:23:12] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:23:12] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:23:12] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:23:12] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:23:12] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:23:12] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:23:12] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:23:12] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：X5MU
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:23:12] "GET /api/v1.0/image_code?cur_id=ce9bf58a-cf4f-4dea-ba2b-40258af4167f&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:23:12] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:469759
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:23:28] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d (_mysql_exceptions.OperationalError) (1048, "Column 'password_hash' cannot be null") [SQL: u'INSERT INTO ih_user_profile (create_time, update_time, name, password_hash, mobile, real_name, id_card, avatar_url) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)'] [parameters: (datetime.datetime(2018, 1, 30, 15, 23, 41, 134053), datetime.datetime(2018, 1, 30, 15, 23, 41, 134112), '13500001111', None, '13500001111', None, None, None)]
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:23:41] "POST /api/v1.0/users HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:32] "GET /register.html?mobile=13676718027&imagecode=YURO&phonecode=297430&password=11&password2=11 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:32] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:32] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:32] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:32] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:32] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:32] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:32] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:32] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:32] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：TMA9
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:33] "GET /api/v1.0/image_code?cur_id=57c14e69-23aa-4766-9be8-33896325bb15&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:33] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:147530
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:42] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:52] "POST /api/v1.0/users HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:52] "GET / HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:53] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:53] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:53] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:53] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:53] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:53] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:53] "GET /static/js/template.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:27:53] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:30:59] "GET /register.html HTTP/1.1" 200 -
+%s %s:%d 图片验证码为：NIQA
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:31:00] "GET /api/v1.0/image_code?cur_id=4a2099d6-96b1-46e2-892a-cf8b8b37c3f9&pre_id= HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:616723
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:31:13] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry '13676718027' for key 'mobile'") [SQL: u'INSERT INTO ih_user_profile (create_time, update_time, name, password_hash, mobile, real_name, id_card, avatar_url) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)'] [parameters: (datetime.datetime(2018, 1, 30, 15, 31, 25, 423725), datetime.datetime(2018, 1, 30, 15, 31, 25, 423830), '13676718027', 'pbkdf2:sha256:50000$YwrlGzAj$b2285108371f21e0e78ba23bde0ae2f61a67acbfac71a65f7b4ba589f3a56093', '13676718027', None, None, None)]
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:31:25] "POST /api/v1.0/users HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:32:02] "POST /api/v1.0/users HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:32:08] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:32:08] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:32:08] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:32:08] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:32:08] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:32:08] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:32:08] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:32:08] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:32:08] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:32:08] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：SDJN
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:32:08] "GET /api/v1.0/image_code?cur_id=8ed39a72-00cc-49f0-9ce2-4526f1020cc0&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:32:08] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:849453
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:32:20] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [30/Jan/2018 15:32:30] "POST /api/v1.0/users HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:28:43] "GET / HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:28:44] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:28:44] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:28:44] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:28:44] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:28:44] "GET /static/css/ihome/index.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:28:44] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:28:44] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:28:44] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:28:44] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:28:44] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:28:44] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:28:44] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:28:44] "GET /static/js/template.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:28:44] "GET /static/js/ihome/index.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:28:44] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:28:44] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:29:29] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:29:29] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:29:29] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：PBST
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:29:30] "GET /api/v1.0/image_code?cur_id=c7f0636d-ffc9-4dd0-9e8b-b34b1bf37e9e&pre_id= HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:536852
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:33:04] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:33:16] "POST /api/v1.0/users HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:31] "GET / HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:31] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:31] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:31] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:31] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:31] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:31] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:31] "GET /static/css/ihome/index.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:31] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:31] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:31] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:31] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:31] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:31] "GET /static/js/template.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:31] "GET /static/js/ihome/index.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:31] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:32] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:48] "GET / HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:48] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:48] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:48] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:48] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:48] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:48] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:48] "GET /static/css/ihome/index.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:48] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:48] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:48] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:48] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:48] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:48] "GET /static/js/template.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:48] "GET /static/js/ihome/index.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:48] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:49] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:50] "GET / HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:50] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:50] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:50] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:50] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:50] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:50] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:50] "GET /static/css/ihome/index.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:50] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:50] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:50] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:50] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:50] "GET /static/js/template.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:50] "GET /static/js/ihome/index.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:50] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:50] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:50] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 图片验证码为：TKEH
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:34:51] "GET /api/v1.0/image_code?cur_id=4b8c6581-ee99-4b6a-bba4-79337ac273aa&pre_id= HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:268659
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:35:13] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d (_mysql_exceptions.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@@transaction_isolation' at line 1")
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:35:24] "POST /api/v1.0/users HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:47:31] "POST /api/v1.0/users HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:47:35] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:47:36] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:47:36] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:47:36] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:47:36] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:47:36] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:47:36] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:47:36] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:47:36] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:47:36] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：DVK7
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:47:36] "GET /api/v1.0/image_code?cur_id=d238ef34-2012-439e-ab7e-d233744060ea&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:47:36] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:240503
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:47:54] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d (_mysql_exceptions.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@@transaction_isolation' at line 1")
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:48:08] "POST /api/v1.0/users HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:48] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:48] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:48] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:48] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:48] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:48] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:48] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:48] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:48] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:48] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：ARXG
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:48] "GET /api/v1.0/image_code?cur_id=57415830-4dbf-4bb8-9dfa-de8746b53859&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:49] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:49] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:49] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:49] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:49] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:49] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:49] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:49] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:49] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:49] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:49] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：ZRU3
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:49] "GET /api/v1.0/image_code?cur_id=3679668b-a51f-456d-a6c7-aafe4269e453&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:53:49] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:174481
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:54:23] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:54:34] "POST /api/v1.0/users HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 图片验证码为：CB9T
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:58:50] "GET /api/v1.0/image_code?cur_id=07c4d8c0-cd4e-4b6b-ade0-c5a23225022b&pre_id= HTTP/1.1" 200 -
+%s %s:%d The CSRF token is missing.
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 15:59:09] "POST /api/v1.0/sms_code HTTP/1.1" 400 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:01:21] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:01:21] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:01:21] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:01:21] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:01:21] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:01:21] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:01:21] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:01:21] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:01:21] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:01:21] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：HSG7
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:01:21] "GET /api/v1.0/image_code?cur_id=19c99e1b-ecc1-4e70-858d-c9f322cc0703&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:01:21] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:102641
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:01:36] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:01:54] "POST /api/v1.0/users HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 图片验证码为：HLQZ
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:04:20] "GET /api/v1.0/image_code?cur_id=47ea7f76-de88-42b5-9dd8-9ca2514b1a5c&pre_id= HTTP/1.1" 200 -
+%s %s:%d The CSRF token is missing.
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:04:32] "POST /api/v1.0/sms_code HTTP/1.1" 400 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:06:32] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:06:32] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:06:32] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:06:32] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:06:32] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:06:32] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:06:32] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:06:32] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:06:32] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:06:32] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：J4NG
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:06:32] "GET /api/v1.0/image_code?cur_id=ca00f986-ee8d-49de-bcaa-7166b94d6d33&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:06:32] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:219513
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:06:44] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:06:52] "POST /api/v1.0/users HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:07:58] "GET / HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:07:58] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:07:58] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:07:58] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:07:58] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:07:58] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:07:58] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:07:58] "GET /static/css/ihome/index.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:07:58] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:07:58] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:07:58] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:07:58] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:07:58] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:07:58] "GET /static/js/template.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:07:58] "GET /static/js/ihome/index.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:07:58] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:07:59] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 图片验证码为：QPEL
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 16:08:00] "GET /api/v1.0/image_code?cur_id=ab2124d0-6679-4bc0-84e0-edf65a905903&pre_id= HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:12:27] "GET /login.html HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:12:27] "GET /static/css/ihome/login.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:12:27] "GET /static/js/ihome/login.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:14:07] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:33] "GET /login.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:33] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:33] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:33] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:33] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:33] "GET /static/css/ihome/login.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:33] "GET /static/js/ihome/login.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:33] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:33] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:33] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:33] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:34] "GET /login.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:34] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:34] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:34] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:34] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:34] "GET /static/css/ihome/login.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:34] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:34] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:34] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:34] "GET /static/js/ihome/login.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:34] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:34] "GET /login.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:34] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:34] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:34] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:34] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:34] "GET /static/css/ihome/login.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:34] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:34] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:34] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:17:34] "GET /static/js/ihome/login.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:18:07] "GET /login.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:18:07] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:18:07] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:18:07] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:18:07] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:18:07] "GET /static/css/ihome/login.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:18:07] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:18:07] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:18:07] "GET /static/js/ihome/login.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:18:07] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:18:08] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:20:11] "GET /login.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:20:11] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:20:11] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:20:11] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:20:11] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:20:11] "GET /static/css/ihome/login.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:20:11] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:20:11] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:20:11] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:20:11] "GET /static/js/ihome/login.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:20:11] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:20:26] "POST /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d The CSRF token is missing.
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:21:03] "POST /api/v1.0/session HTTP/1.1" 400 -
+%s %s:%d The CSRF token is missing.
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:21:07] "POST /api/v1.0/session HTTP/1.1" 400 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:23:15] "GET /login.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:23:15] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:23:15] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:23:15] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:23:15] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:23:15] "GET /static/css/ihome/login.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:23:15] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:23:15] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:23:15] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:23:15] "GET /static/js/ihome/login.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:23:15] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:23:24] "POST /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:23:33] "POST /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:23:43] "POST /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:24:03] "POST /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:24:06] "POST /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:24:08] "POST /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:24:14] "POST /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:24:30] "POST /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:25:16] "POST /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:25:23] "POST /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 图片验证码为：EJFS
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:27:38] "GET /api/v1.0/image_code?cur_id=8622370b-1cf7-4d80-9362-f45b22594351&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:27:40] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:27:40] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:27:40] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:27:40] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:27:40] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:27:40] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:27:40] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:27:40] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:27:40] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:27:40] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：8OB3
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:27:40] "GET /api/v1.0/image_code?cur_id=3eed4979-e324-4d12-b2e7-c091a50db341&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:27:40] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:752306
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:27:56] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:08] "POST /api/v1.0/users HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:42] "GET / HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:43] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:43] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:43] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:43] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:43] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:43] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:43] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:43] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:43] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:43] "GET /static/css/ihome/index.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:43] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:43] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:43] "GET /static/js/template.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:43] "GET /static/js/ihome/index.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:43] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:43] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:45] "GET / HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:45] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:45] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:45] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:45] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:45] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:45] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:45] "GET /static/css/ihome/index.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:45] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:45] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:45] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:45] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:45] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:45] "GET /static/js/template.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:45] "GET /static/js/ihome/index.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:45] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:46] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 图片验证码为：HZQY
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:28:46] "GET /api/v1.0/image_code?cur_id=31adbd2c-7e63-441e-b7df-c538cd6bde31&pre_id= HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:204871
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:29:01] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:29:13] "POST /api/v1.0/users HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 图片验证码为：HWMY
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:29:45] "GET /api/v1.0/image_code?cur_id=a6bbb975-c462-4616-a1af-bfe024077411&pre_id= HTTP/1.1" 200 -
+%s %s:%d The CSRF token is missing.
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 17:29:56] "POST /api/v1.0/sms_code HTTP/1.1" 400 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:24:53] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:24:53] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:24:53] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:24:53] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:24:53] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:24:53] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:24:53] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:24:53] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:24:53] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:24:53] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：JTMU
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:24:54] "GET /api/v1.0/image_code?cur_id=85496491-152d-425d-9852-c4def7e8a780&pre_id= HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:25:29] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:25:29] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:25:29] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:25:29] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:25:29] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:25:29] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:25:29] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:25:29] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:25:29] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:25:29] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：HNFI
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:25:29] "GET /api/v1.0/image_code?cur_id=9c6eaf32-65e0-4a9a-9522-7362391d27c7&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:25:29] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:25:43] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 图片验证码为：TGW3
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:25:49] "GET /api/v1.0/image_code?cur_id=cd6c7d47-774f-406e-ac93-efad7e6ae551&pre_id=9c6eaf32-65e0-4a9a-9522-7362391d27c7 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:25:57] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 图片验证码为：RXCE
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:25:58] "GET /api/v1.0/image_code?cur_id=2516dd7b-a37d-4e9c-ae79-75483a04a0fb&pre_id=cd6c7d47-774f-406e-ac93-efad7e6ae551 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:26:06] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 图片验证码为：K4J7
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:26:07] "GET /api/v1.0/image_code?cur_id=18de5327-28cb-4334-a858-b9ad202859c2&pre_id=2516dd7b-a37d-4e9c-ae79-75483a04a0fb HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:198664
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:26:26] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:37] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:37] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:37] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:37] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:37] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:37] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:37] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:37] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:37] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:37] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：OOPK
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:37] "GET /api/v1.0/image_code?cur_id=2049ab87-4d9d-45f6-8b06-793816351cdc&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:37] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:38] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:38] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:38] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:38] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:38] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:38] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:38] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:38] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:38] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:38] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：LMYF
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:38] "GET /api/v1.0/image_code?cur_id=af02494c-11dc-4749-89bd-5e9e6800ba09&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:38] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:435329
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:27:52] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:28:05] "POST /api/v1.0/users HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:57] "GET / HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:57] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:57] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:57] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:57] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:57] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:57] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:57] "GET /static/css/ihome/index.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:57] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:57] "GET /static/js/template.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:57] "GET /static/js/ihome/index.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:57] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:57] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:57] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:57] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:58] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:58] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:58] "GET / HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:58] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:58] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:58] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:58] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:58] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:58] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:58] "GET /static/css/ihome/index.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:58] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:58] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:58] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:58] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:58] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:58] "GET /static/js/template.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:58] "GET /static/js/ihome/index.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:58] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:33:59] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 图片验证码为：6NEK
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:00] "GET /api/v1.0/image_code?cur_id=9afa5125-fcec-4a63-bd85-1c64820dcfae&pre_id= HTTP/1.1" 200 -
+%s %s:%d 图片验证码为：QKO7
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:06] "GET /api/v1.0/image_code?cur_id=603169b5-5e0f-43ac-89b1-cd9ae1a794be&pre_id=9afa5125-fcec-4a63-bd85-1c64820dcfae HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:333875
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:14] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:29] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:29] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:29] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:29] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:29] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:29] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:29] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:29] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:29] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:29] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：JQYI
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:29] "GET /api/v1.0/image_code?cur_id=9e184aad-90d1-49dd-b35b-421060bf4207&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:30] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:30] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:30] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:30] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:30] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:30] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:30] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:30] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:30] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:30] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:30] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：XUOS
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:30] "GET /api/v1.0/image_code?cur_id=513f89e9-1b62-4e74-8d86-8e5802c383f7&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:30] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:977182
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:34:41] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:36:53] "GET / HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:36:53] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:36:53] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:36:53] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:36:53] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:36:53] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:36:53] "GET /static/css/ihome/index.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:36:53] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:36:53] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:36:53] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:36:53] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:36:53] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:36:53] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:36:53] "GET /static/js/template.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:36:53] "GET /static/js/ihome/index.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:36:53] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:36:54] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 图片验证码为：GY3X
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:36:54] "GET /api/v1.0/image_code?cur_id=b58f9109-cda7-43ee-854e-5cc1bb6c3d7c&pre_id= HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:799765
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:37:12] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:38:50] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:38:50] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:38:50] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:38:50] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:38:50] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:38:50] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:38:50] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:38:50] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:38:50] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:38:50] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：ZL7T
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:38:50] "GET /api/v1.0/image_code?cur_id=bfe6b4d4-79e7-4095-a12c-bd6ae07a485a&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:38:50] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:284623
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:39:03] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:44:01] "GET /register.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:44:01] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:44:01] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:44:01] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:44:01] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:44:01] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:44:01] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:44:01] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:44:01] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:44:01] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+%s %s:%d 图片验证码为：JRWB
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:44:02] "GET /api/v1.0/image_code?cur_id=32da45b3-acf2-47d9-aa2b-f855d507f27c&pre_id= HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:44:02] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:44:14] "POST /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:44:54] "GET /my HTTP/1.1" 404 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:44:59] "GET /my.html HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:44:59] "GET /static/css/ihome/my.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:44:59] "GET /static/js/ihome/my.js HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:45:38] "GET /profile.html HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:45:38] "GET /static/css/ihome/profile.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:45:38] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:45:38] "GET /static/js/ihome/profile.js?v=5 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:03] "GET /my.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:03] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:03] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:03] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:03] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:03] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:03] "GET /static/css/ihome/my.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:03] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:03] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:03] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:03] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:03] "GET /static/js/ihome/my.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:04] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:27] "GET /my.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:27] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:27] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:27] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:27] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:27] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:27] "GET /static/css/ihome/my.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:27] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:27] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:27] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:27] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:27] "GET /static/js/ihome/my.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 18:47:27] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:09:58] "GET /my.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:09:58] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:09:58] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:09:58] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:09:58] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:09:58] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:09:58] "GET /static/css/ihome/my.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:09:58] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:09:58] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:09:58] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:09:58] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:09:58] "GET /static/js/ihome/my.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:10:00] "DELETE /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:10:00] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:11:11] "POST /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:11:12] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:14:32] "DELETE /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:01] "GET /profile.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:01] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:01] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:01] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:01] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:01] "GET /static/css/ihome/profile.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:01] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:01] "GET /static/js/jquery.form.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:01] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:01] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:01] "GET /static/js/ihome/profile.js?v=5 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:01] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:01] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:14] "POST /api/profile/name HTTP/1.1" 405 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:28] "GET /profile.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:29] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:29] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:29] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:29] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:29] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:29] "GET /static/css/ihome/profile.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:29] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:29] "GET /static/js/jquery.form.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:29] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:29] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:29] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:29] "GET /static/js/ihome/profile.js?v=5 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:32] "GET /profile.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:32] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:32] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:32] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:32] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:32] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:32] "GET /static/css/ihome/profile.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:32] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:33] "GET /static/js/jquery.form.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:33] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:33] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:33] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 19:46:33] "GET /static/js/ihome/profile.js?v=5 HTTP/1.1" 304 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:38:29] "GET /my.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:38:31] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:38:31] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:38:31] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:38:31] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:38:31] "GET /static/css/ihome/my.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:38:31] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:38:31] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:38:31] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:38:31] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:38:31] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:38:31] "GET /static/js/ihome/my.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:38:32] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:38:34] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:38:51] "POST /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:38:52] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:39:01] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:39:06] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:39:10] "DELETE /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:39:12] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:54:12] "GET / HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:54:13] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:54:13] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:54:13] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:54:13] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:54:13] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:54:13] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:54:13] "GET /static/css/ihome/index.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:54:13] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:54:13] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:54:13] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:54:13] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:54:13] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:54:13] "GET /static/js/template.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:54:13] "GET /static/js/ihome/index.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:54:13] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:54:13] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:54:24] "POST /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:54:24] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:54:29] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:55:52] "GET /api/v1.0/avatar?avatar=DM-ZNiCU8AAZdHb.png HTTP/1.1" 404 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:59:54] "GET /profile.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:59:54] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:59:54] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:59:54] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:59:54] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:59:54] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:59:55] "GET /static/css/ihome/profile.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:59:55] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:59:55] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:59:55] "GET /static/js/jquery.form.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:59:55] "GET /static/js/ihome/profile.js?v=5 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:59:55] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:59:55] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 20:59:57] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d Starting new HTTPS connection (1): uc.qbox.me
+%s %s:%d https://uc.qbox.me:443 "GET /v1/query?ak=yV4GmNBLOgQK-1Sn3o4jktGLFdFSrlywR2C-hvsW&bucket=ihome HTTP/1.1" 200 239
+%s %s:%d Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+%s %s:%d Starting new HTTP connection (1): up.qiniu.com
+%s %s:%d http://up.qiniu.com:80 "POST / HTTP/1.1" 200 76
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:00:03] "POST /api/v1.0/user/avatar HTTP/1.1" 200 -
+%s %s:%d http://up.qiniu.com:80 "POST / HTTP/1.1" 200 76
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:00:35] "POST /api/v1.0/user/avatar HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:02:00] "GET /profile.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:02:00] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:02:00] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:02:00] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:02:00] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:02:00] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:02:00] "GET /static/css/ihome/profile.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:02:00] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:02:00] "GET /static/js/jquery.form.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:02:00] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:02:01] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:02:01] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:02:01] "GET /static/js/ihome/profile.js?v=5 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:02:02] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+%s %s:%d Starting new HTTP connection (1): up.qiniu.com
+%s %s:%d http://up.qiniu.com:80 "POST / HTTP/1.1" 200 76
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:03:10] "GET /profile.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:03:10] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:03:10] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:03:10] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:03:11] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:03:11] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:03:11] "GET /static/css/ihome/profile.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:03:11] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:03:11] "GET /static/js/jquery.form.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:03:11] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:03:11] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:03:11] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:03:11] "GET /static/js/ihome/profile.js?v=5 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:03:11] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:03:13] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:03:19] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:03:30] "POST /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:03:31] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:03:37] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:03:39] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+%s %s:%d Starting new HTTP connection (1): up.qiniu.com
+%s %s:%d http://up.qiniu.com:80 "POST / HTTP/1.1" 200 76
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:03:45] "POST /api/v1.0/user/avatar HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:06:47] "GET /profile.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:06:47] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:06:47] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:06:47] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:06:48] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:06:48] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:06:48] "GET /static/css/ihome/profile.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:06:48] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:06:48] "GET /static/js/jquery.form.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:06:48] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:06:48] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:06:48] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:06:48] "GET /static/js/ihome/profile.js?v=5 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:06:48] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+%s %s:%d Starting new HTTP connection (1): up.qiniu.com
+%s %s:%d http://up.qiniu.com:80 "POST / HTTP/1.1" 200 76
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:08:19] "POST /api/v1.0/user/avatar HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:11] "GET /profile.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:11] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:11] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:11] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:11] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:11] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:11] "GET /static/css/ihome/profile.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:11] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:11] "GET /static/js/jquery.form.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:11] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:12] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:12] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:12] "GET /static/js/ihome/profile.js?v=5 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:12] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+%s %s:%d Starting new HTTP connection (1): up.qiniu.com
+%s %s:%d http://up.qiniu.com:80 "POST / HTTP/1.1" 200 76
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:17] "POST /api/v1.0/user/avatar HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:19] "GET /profile.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:19] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:19] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:19] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:19] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:19] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:19] "GET /static/css/ihome/profile.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:19] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:19] "GET /static/js/jquery.form.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:19] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:19] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:19] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:19] "GET /static/js/ihome/profile.js?v=5 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:19] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:21] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:24] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d http://up.qiniu.com:80 "POST / HTTP/1.1" 200 76
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:09:41] "POST /api/v1.0/user/avatar HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:08] "GET / HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:09] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:09] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:09] "GET /static/css/reset.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:09] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:09] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:09] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:09] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:09] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:09] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:09] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:10] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:10] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:10] "GET /static/js/template.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:10] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:10] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:10] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:11] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:17] "GET /login.html HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:17] "GET /static/css/ihome/login.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:17] "GET /static/js/ihome/login.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:25] "POST /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:31] "GET /my.html HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:31] "GET /static/css/ihome/my.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:31] "GET /static/js/ihome/my.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:32] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:33] "GET /profile.html HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:33] "GET /static/css/ihome/profile.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:33] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:33] "GET /static/js/ihome/profile.js?v=5 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:11:34] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d Resetting dropped connection: up.qiniu.com
+%s %s:%d http://up.qiniu.com:80 "POST / HTTP/1.1" 200 76
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:12:06] "POST /api/v1.0/user/avatar HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d The CSRF token is missing.
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:17:24] "POST /api/v1.0/session HTTP/1.1" 400 -
+%s %s:%d The CSRF token is missing.
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:17:29] "POST /api/v1.0/session HTTP/1.1" 400 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:06] "GET /login.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:06] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:06] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:06] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:06] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:06] "GET /static/css/ihome/login.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:06] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:06] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:06] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:06] "GET /static/js/ihome/login.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:07] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:17] "POST /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:26] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:30] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+%s %s:%d Starting new HTTP connection (1): up.qiniu.com
+%s %s:%d http://up.qiniu.com:80 "POST / HTTP/1.1" 200 76
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:40] "POST /api/v1.0/user/avatar HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:55] "GET /profile.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:55] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:55] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:55] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:55] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:55] "GET /static/css/ihome/profile.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:55] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:55] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:55] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:55] "GET /static/js/jquery.form.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:55] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:55] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:55] "GET /static/js/ihome/profile.js?v=5 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:55] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:18:55] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d http://up.qiniu.com:80 "POST / HTTP/1.1" 200 76
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:19:02] "POST /api/v1.0/user/avatar HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:22:05] "GET /profile.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:22:05] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:22:05] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:22:05] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:22:05] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:22:05] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:22:05] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:22:05] "GET /static/css/ihome/profile.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:22:05] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:22:05] "GET /static/js/jquery.form.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:22:05] "GET /static/js/ihome/profile.js?v=5 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:22:05] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:22:05] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:22:08] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+%s %s:%d Starting new HTTP connection (1): up.qiniu.com
+%s %s:%d http://up.qiniu.com:80 "POST / HTTP/1.1" 200 76
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:24:56] "GET /profile.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:24:57] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:24:57] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:24:57] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:24:57] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:24:57] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:24:57] "GET /static/css/ihome/profile.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:24:57] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:24:57] "GET /static/js/ihome/profile.js?v=5 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:24:57] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:24:57] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:24:57] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:24:57] "GET /static/js/jquery.form.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:24:58] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+%s %s:%d Starting new HTTP connection (1): up.qiniu.com
+%s %s:%d http://up.qiniu.com:80 "POST / HTTP/1.1" 200 76
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:25:05] "POST /api/v1.0/user/avatar HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:37:10] "GET /profile.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:37:11] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:37:11] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:37:11] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:37:11] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:37:11] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:37:11] "GET /static/css/ihome/profile.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:37:11] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:37:11] "GET /static/js/ihome/profile.js?v=5 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:37:11] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:37:11] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:37:11] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:37:11] "GET /static/js/jquery.form.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:37:15] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+%s %s:%d Starting new HTTP connection (1): up.qiniu.com
+%s %s:%d http://up.qiniu.com:80 "POST / HTTP/1.1" 200 76
+%s %s:%d 127.0.0.1 - - [31/Jan/2018 21:37:22] "POST /api/v1.0/user/avatar HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:16:25] "GET /register.html HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:16:25] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:16:25] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 200 -
+%s %s:%d 图片验证码为：VGUB
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:16:26] "GET /api/v1.0/image_code?cur_id=5c011600-a1cb-4ede-8f2e-e6601fe16316&pre_id= HTTP/1.1" 200 -
+%s %s:%d 短信验证码为:901547
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:16:36] "POST /api/v1.0/sms_code HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:16:49] "POST /api/v1.0/users HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:16:57] "POST /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:04] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:06] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:10] "GET /profile.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:10] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:10] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:10] "GET /static/css/reset.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:10] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:10] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:10] "GET /static/css/ihome/profile.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:10] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:10] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:10] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:10] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:10] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:10] "GET /static/js/ihome/profile.js?v=5 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:10] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:10] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:11] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:28] "GET /profile.html HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:28] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:28] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:28] "GET /static/css/reset.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:28] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:28] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:28] "GET /static/css/ihome/profile.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:28] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:28] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:28] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:28] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:28] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:28] "GET /static/js/ihome/profile.js?v=5 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:28] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:28] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:29] "GET /favicon.ico HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:29] "GET / HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:29] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:29] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:29] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:29] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:29] "GET /static/js/template.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:29] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:31] "GET /login.html HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:31] "GET /static/css/ihome/login.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:31] "GET /static/js/ihome/login.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:41] "POST /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:48] "GET /my.html HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:48] "GET /static/css/ihome/my.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:48] "GET /static/js/ihome/my.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:48] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:17:50] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+%s %s:%d Starting new HTTP connection (1): up.qiniu.com
+%s %s:%d http://up.qiniu.com:80 "POST / HTTP/1.1" 200 76
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:18:02] "POST /api/v1.0/user/avatar HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:18:10] "GET /profile.html HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:18:10] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:18:10] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:18:10] "GET /static/css/reset.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:18:10] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:18:10] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:18:10] "GET /static/css/ihome/profile.css HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:18:10] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:18:10] "GET /static/js/jquery.form.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:18:10] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:18:10] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:18:10] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:18:10] "GET /static/js/ihome/profile.js?v=5 HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:18:10] "GET /api/v1.0/user HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [01/Feb/2018 16:18:10] "GET /favicon.ico HTTP/1.1" 200 -
