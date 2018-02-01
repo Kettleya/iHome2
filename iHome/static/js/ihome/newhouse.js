@@ -7,10 +7,72 @@ $(document).ready(function(){
     // $('.popup_con').fadeIn('fast');
     // $('.popup_con').fadeOut('fast');
 
-    // TODO: 在页面加载完毕之后获取区域信息
+    // 在页面加载完毕之后获取区域信息
+    $.get('/api/v1.0/areas',function (resp) {
+        if (resp.errno=='0'){
+            //代表请求成功
+            // for (var i=0;i<resp.data.length;i++){
+            //     var aid = resp.data[i].aid
+            //     var aname = resp.data[i].aname
+            //     $('#area-id').append('<option value="' + aid + '">' + aname + '</option>')
+            // }
+            // 通过模板生成要显示的html
+            var html = template('areas-tmpl',{'areas':resp.data})
+            // 设置到指定的标签里面
+            $('#area-id').html(html)
+        }else{
+            alert(resp.errmsg)
+        }
+    })
 
-    // TODO: 处理房屋基本信息提交的表单数据
+    // 处理房屋基本信息提交的表单数据
+    $('#form-house-info').submit(function (e) {
+        e.preventDefault()
 
-    // TODO: 处理图片表单的数据
+        var params = {}
+
+        //serializeArray()会生成当前表单提交所需要提交的数据的列表
+        //[{name:'',value:''},{name:'',value:''}]
+        $(this).serializeArray().map(function (x) {
+            //console.log(X)
+            params[x.name] = x.value
+        })
+        var facilities = []
+
+        //取到checkbox,取到选中的,取到name=facility
+        //map用于遍历数据列表或者对象数据
+        //each用于遍历页面上的标签数据
+        $(':checkbox:checked[name=facility]').each(function (index,x) {
+            facilities[index] = x.value
+        })
+
+        params['facility'] = facilities
+        console.log(params)
+        $.ajax({
+            url:'/api/v1.0/houses',
+            type:'post',
+            contentType:'application/json',
+            headers:{
+                'X-CSRFToken':getCookie('csrf_token')
+            },
+            data:JSON.stringify(params),
+            success:function (resp) {
+                if(resp.errno == '0'){
+                    //房屋基本信息填充成功
+                    //还需要上传房屋图片
+                    //隐藏基本信息的表单
+                    $('#form-house-info').hide()
+                    //显示上传图片的表单
+                    $('#form-house-image').show()
+                    //设置图片表单中要上传房屋id
+                    $('#house-id').val(resp.data.house_id)
+                }
+            }
+        })
+    })
+
+
+    // 处理图片表单的数据
+
 
 })

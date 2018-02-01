@@ -1,5 +1,6 @@
 # -*- coding:utf-8 -*-
 from flask import current_app
+from flask import g
 from flask import jsonify
 from flask import request
 from iHome import constants, db

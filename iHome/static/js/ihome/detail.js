@@ -17,9 +17,12 @@ $(document).ready(function(){
     var queryData = decodeQuery();
     var houseId = queryData["id"];
 
-    // TODO: 获取该房屋的详细信息
+    // 获取该房屋的详细信息
+    $.get('/api/v1.0/houses/'+houseId,function (resp) {
 
-    // TODO: 数据加载完毕后,需要设置幻灯片对象，开启幻灯片滚动
+    })
+
+    // 数据加载完毕后,需要设置幻灯片对象，开启幻灯片滚动
     var mySwiper = new Swiper ('.swiper-container', {
         loop: true,
         autoplay: 2000,
