@@ -13,6 +13,28 @@ from iHome.utils.common import login_required
 from iHome.utils.response_code import RET
 
 
+@api.route('/houses/index')
+def get_house_index():
+    """
+    获取首页推荐房屋
+    1.获取房屋数据并展示
+    2.将房屋列表转成字典类型
+    3.进行响应
+    :return:
+    """
+    try:
+        houses = House.query.order_by(House.create_time.desc()).limit(constants.HOME_PAGE_MAX_HOUSES)
+    except Exception as e:
+        houses=[]
+        current_app.logger.error(e)
+
+    # 将房屋列表转成字典类型
+    house_dict_li = []
+    for house in houses:
+        house_dict_li.append(house.to_basic_dict())
+
+    # 进行响应
+    return jsonify(errno=RET.OK, errmsg='OK',data=house_dict_li)
 
 
 @api.route('/houses/<int:house_id>')
