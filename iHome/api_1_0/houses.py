@@ -13,6 +13,9 @@ from iHome.utils.common import login_required
 from iHome.utils.response_code import RET
 
 
+
+
+
 @api.route('/houses/index')
 def get_house_index():
     """

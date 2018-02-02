@@ -9,7 +9,15 @@ from iHome.utils.response_code import RET
 from . import api
 
 
-@api.route('/session',methods=['DELETE'])
+@api.route('/session')
+def check_login():
+    """判断用户是否登陆,如果登陆则显示user_id和name"""
+    user_id = session.get('user_id')
+    name = session.get('name')
+    return jsonify(errno=RET.OK, errmsg='OK', data={'user_id': user_id, 'name': name})
+
+
+@api.route('/session', methods=['DELETE'])
 def logout():
     """执行退出操作"""
     session.pop('name')
@@ -36,7 +44,7 @@ def login():
     mobile = data_dict.get('mobile')
     password = data_dict.get('password')
 
-    if not all([mobile,password]):
+    if not all([mobile, password]):
         return jsonify(errno=RET.PARAMERR, errmsg='参数有误')
 
     if not re.match('^1[34578][0-9]{9}$', mobile):
@@ -58,7 +66,7 @@ def login():
 
     # 5.把当前用户信息存入到session中
     try:
-        session['user_id']=user.id
+        session['user_id'] = user.id
         session['name'] = user.name
         session['mobile'] = user.mobile
     except Exception as e:

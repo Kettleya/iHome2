@@ -10,10 +10,10 @@ $(document).ready(function() {
     $("#password").focus(function(){
         $("#password-err").hide();
     });
-    // TODO: 添加登录表单提交操
+    // 添加登录表单提交操作
     $(".form-login").submit(function(e){
         e.preventDefault();
-        //取值
+        // 取值
         mobile = $("#mobile").val();
         password = $("#password").val();
         if (!mobile) {
@@ -26,27 +26,35 @@ $(document).ready(function() {
             $("#password-err").show();
             return;
         }
-        var params ={
-            'mobile':mobile,
-            'password':password
+
+        var params = {
+            "mobile": mobile,
+            "password": password
         }
 
+        // console.log($(this).serializeArray()) // [{"mobile": "18811110000", "password": "123456"}]
+        // $(this).serializeArray().map(function (x) {
+        //     console.log(x)
+        // })
+
+        // 发起请求
         $.ajax({
-            url:'/api/v1.0/session',
-            type:'post',
-            data:JSON.stringify(params),
-            contentType:'application/json',
-            headers:{
-                'X-CSRFToken':getCookie('csrf_token'),
+            url: "/api/v1.0/session",
+            type: "post",
+            data: JSON.stringify(params),
+            contentType: "application/json",
+            headers: {
+                "X-CSRFToken": getCookie("csrf_token")
             },
-            success:function (resp) {
-                if (resp.errno == '0'){
-                    location.href='/'
-                }else{
-                    $('#password-err span').html(resp.errmsg)
-                    $('#password-err').show()
+            success: function (resp) {
+                if (resp.errno == "0") {
+                    location.href = "/"
+                }else {
+                    $("#password-err span").html(resp.errmsg)
+                    $("#password-err").show()
                 }
             }
         })
+
     });
 })
