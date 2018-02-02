@@ -13,8 +13,57 @@ from iHome.utils.common import login_required
 from iHome.utils.response_code import RET
 
 
+@api.route('/houses')
+def search_houses():
+    """
+    搜索房屋信息
+    :return:
+    """
+    current_app.logger.debug(request.args)
+    aid = request.args.get('aid','')
+    sd= request.args.get('sd','')
+    ed= request.args.get('ed','')
+    sk= request.args.get('sk','new')
+    page = request.args.get('p','1')
 
+    try:
+        page = int(page)
+    except Exception as e:
+        current_app.logger.error(e)
+        return jsonify(errno=RET.PARAMERR, errmsg='参数错误')
 
+    # 查询所有数据
+    try:
+        house_query = House.query
+
+        if sk == 'booking':
+            house_query = house_query.order_by(House.order_count.desc())
+        elif sk == 'price-inc':
+            house_query = house_query.order_by(House.price.asc())
+        elif sk == 'price-des':
+            house_query = house_query.order_by(House.price.desc())
+        else:
+            house_query = house_query.order_by(House.create_time.desc())
+
+        # 使用paginate进行分页
+        paginate = house_query.paginate(page,constants.HOUSE_LIST_PAGE_CAPACITY,False)
+        # 当前页
+        houses = paginate.items
+        # 总页数
+        total_page = paginate.pages
+    except Exception as e:
+        current_app.logger.error(e)
+        return jsonify(errno=RET.DBERR, errmsg='查询数据失败')
+
+    # 查询出所有房屋信息
+    houses_dict = []
+    for house in houses:
+        houses_dict.append(house.to_basic_dict())
+
+    resp={'total_page':total_page,'houses':houses_dict}
+
+    # 返回响应
+    return jsonify(errno=RET.OK, errmsg='OK',data=resp)
 
 @api.route('/houses/index')
 def get_house_index():

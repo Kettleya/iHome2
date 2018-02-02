@@ -4,9 +4,9 @@ var total_page = 1;  // 总页数
 var house_data_querying = true;   // 是否正在向后台获取数据
 
 // 解析url中的查询字符串
-function decodeQuery(){
+function decodeQuery() {
     var search = decodeURI(document.location.search);
-    return search.replace(/(^\?)/, '').split('&').reduce(function(result, item){
+    return search.replace(/(^\?)/, '').split('&').reduce(function (result, item) {
         values = item.split('=');
         result[values[0]] = values[1];
         return result;
@@ -38,21 +38,42 @@ function updateHouseData(action) {
     var endDate = $("#end-date").val();
     var sortKey = $(".filter-sort>li.active").attr("sort-key");
     var params = {
-        aid:areaId,
-        sd:startDate,
-        ed:endDate,
-        sk:sortKey,
-        p:next_page
+        aid: areaId,
+        sd: startDate,
+        ed: endDate,
+        sk: sortKey,
+        p: next_page
     };
-    // TODO: 获取房屋列表信息
+    // 获取房屋列表信息
+    $.get('/api/v1.0/houses', params, function (resp) {
+        house_data_querying = false
+        if (resp.errno == '0') {
+            //请求成功 显示数据
+            var html = template('house-list-tmpl', {'houses': resp.data.houses})
+            //数据返回回来需要给total_page赋值
+            total_page = resp.data.total_page
+
+            if (action == 'renew') {
+                $('.house-list').html(html)
+            } else {
+                //加载成功后记录当前页面是第几页
+                cur_page = next_page
+                //代表加载更多的数据
+                //如果加载回来得多就添加到原来的数据后面
+                $('.house-list').append(html)
+            }
+        } else {
+
+        }
+    })
 }
 
-$(document).ready(function(){
+$(document).ready(function () {
     var queryData = decodeQuery();
     var startDate = queryData["sd"];
     var endDate = queryData["ed"];
-    $("#start-date").val(startDate); 
-    $("#end-date").val(endDate); 
+    $("#start-date").val(startDate);
+    $("#end-date").val(endDate);
     updateFilterDateDisplay();
     var areaName = queryData["aname"];
     if (!areaName) areaName = "位置区域";
@@ -60,39 +81,39 @@ $(document).ready(function(){
 
 
     // 获取筛选条件中的城市区域信息
-    $.get("/api/v1.0/areas", function(data){
+    $.get("/api/v1.0/areas", function (data) {
         if ("0" == data.errno) {
             var areaId = queryData["aid"];
             if (areaId) {
-                for (var i=0; i<data.data.length; i++) {
+                for (var i = 0; i < data.data.length; i++) {
                     areaId = parseInt(areaId);
                     if (data.data[i].aid == areaId) {
-                        $(".filter-area").append('<li area-id="'+ data.data[i].aid+'" class="active">'+ data.data[i].aname+'</li>');
+                        $(".filter-area").append('<li area-id="' + data.data[i].aid + '" class="active">' + data.data[i].aname + '</li>');
                     } else {
-                        $(".filter-area").append('<li area-id="'+ data.data[i].aid+'">'+ data.data[i].aname+'</li>');
+                        $(".filter-area").append('<li area-id="' + data.data[i].aid + '">' + data.data[i].aname + '</li>');
                     }
                 }
             } else {
-                for (var i=0; i<data.data.length; i++) {
-                    $(".filter-area").append('<li area-id="'+ data.data[i].aid+'">'+ data.data[i].aname+'</li>');
+                for (var i = 0; i < data.data.length; i++) {
+                    $(".filter-area").append('<li area-id="' + data.data[i].aid + '">' + data.data[i].aname + '</li>');
                 }
             }
             // 在页面添加好城区选项信息后，更新展示房屋列表信息
             updateHouseData("renew");
             var windowHeight = $(window).height()
             // 为窗口的滚动添加事件函数
-            window.onscroll=function(){
+            window.onscroll = function () {
                 // var a = document.documentElement.scrollTop==0? document.body.clientHeight : document.documentElement.clientHeight;
-                var b = document.documentElement.scrollTop==0? document.body.scrollTop : document.documentElement.scrollTop;
-                var c = document.documentElement.scrollTop==0? document.body.scrollHeight : document.documentElement.scrollHeight;
+                var b = document.documentElement.scrollTop == 0 ? document.body.scrollTop : document.documentElement.scrollTop;
+                var c = document.documentElement.scrollTop == 0 ? document.body.scrollHeight : document.documentElement.scrollHeight;
                 // 如果滚动到接近窗口底部
-                if(c-b<windowHeight+50){
+                if (c - b < windowHeight + 50) {
                     // 如果没有正在向后端发送查询房屋列表信息的请求
                     if (!house_data_querying) {
                         // 将正在向后端查询房屋列表信息的标志设置为真
                         house_data_querying = true;
                         // 如果当前页面数还没到达总页数
-                        if(cur_page < total_page) {
+                        if (cur_page < total_page) {
                             // 将要查询的页数设置为当前页数加1
                             next_page = cur_page + 1;
                             // 向后端发送请求，查询下一页房屋数据// 向后端发送请求，查询下一页房屋数据
@@ -113,7 +134,7 @@ $(document).ready(function(){
         autoclose: true
     });
     var $filterItem = $(".filter-item-bar>.filter-item");
-    $(".filter-title-bar").on("click", ".filter-title", function(e){
+    $(".filter-title-bar").on("click", ".filter-title", function (e) {
         var index = $(this).index();
         if (!$filterItem.eq(index).hasClass("active")) {
             $(this).children("span").children("i").removeClass("fa-angle-down").addClass("fa-angle-up");
@@ -127,7 +148,7 @@ $(document).ready(function(){
             updateFilterDateDisplay();
         }
     });
-    $(".display-mask").on("click", function(e) {
+    $(".display-mask").on("click", function (e) {
         $(this).hide();
         $filterItem.removeClass('active');
         updateFilterDateDisplay();
@@ -137,7 +158,7 @@ $(document).ready(function(){
         updateHouseData("renew");
 
     });
-    $(".filter-item-bar>.filter-area").on("click", "li", function(e) {
+    $(".filter-item-bar>.filter-area").on("click", "li", function (e) {
         if (!$(this).hasClass("active")) {
             $(this).addClass("active");
             $(this).siblings("li").removeClass("active");
@@ -147,7 +168,7 @@ $(document).ready(function(){
             $(".filter-title-bar>.filter-title").eq(1).children("span").eq(0).html("位置区域");
         }
     });
-    $(".filter-item-bar>.filter-sort").on("click", "li", function(e) {
+    $(".filter-item-bar>.filter-sort").on("click", "li", function (e) {
         if (!$(this).hasClass("active")) {
             $(this).addClass("active");
             $(this).siblings("li").removeClass("active");
