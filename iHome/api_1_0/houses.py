@@ -3,6 +3,7 @@ from flask import current_app
 from flask import g
 from flask import jsonify
 from flask import request
+from flask import session
 from iHome import constants, db
 from iHome import redis_store
 from iHome.api_1_0 import api
@@ -12,7 +13,38 @@ from iHome.utils.common import login_required
 from iHome.utils.response_code import RET
 
 
-@api.route('/houses/image',methods=['POST'])
+
+
+@api.route('/houses/<int:house_id>')
+def house_detail(house_id):
+    """
+    1.通过house_id查询指定房屋类型
+    2.将房屋的详情信息封装成字典
+    3.返回并给出响应
+    :param house_id: 房屋id
+    :return:
+    """
+    # 1.通过house_id查询指定房屋类型
+    try:
+        house = House.query.get(house_id)
+    except Exception as e:
+        current_app.logger.error(e)
+        return jsonify(errno=RET.DBERR, errmsg='查询房屋信息失败')
+
+    if not house:
+        return jsonify(errno=RET.NODATA, errmsg='房屋不存在')
+
+    # 2.将房屋的详情信息封装成字典
+    resp_dict = house.to_full_dict()
+
+    # 取到当前用户的id.如果没有用户登陆,就返回-1
+    user_id = session.get('user_id', -1)
+
+    # 3.返回并给出响应
+    return jsonify(errno=RET.OK, errmsg='OK', data={'house': resp_dict, 'user_id': user_id})
+
+
+@api.route('/houses/image', methods=['POST'])
 @login_required
 def upload_house_image():
     """
@@ -74,7 +106,7 @@ def upload_house_image():
         return jsonify(errno=RET.DBERR, errmsg='添加图片数据失败')
 
     # 6.返回响应-->图片的url
-    return jsonify(errno=RET.OK, errmsg='上传成功',data={'image_url':constants.QINIU_DOMIN_PREFIX+key})
+    return jsonify(errno=RET.OK, errmsg='上传成功', data={'image_url': constants.QINIU_DOMIN_PREFIX + key})
 
 
 @api.route('/houses', methods=["POST"])
