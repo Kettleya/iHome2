@@ -21,36 +21,36 @@ def search_houses():
     :return:
     """
     current_app.logger.debug(request.args)
-    aid = request.args.get('aid','')
-    sd= request.args.get('sd','')
-    ed= request.args.get('ed','')
-    sk= request.args.get('sk','new')
-    page = request.args.get('p','1')
+    aid = request.args.get('aid', '')
+    sd = request.args.get('sd', '')
+    ed = request.args.get('ed', '')
+    sk = request.args.get('sk', 'new')
+    page = request.args.get('p', '1')
 
-    start_date =None
-    end_date =None
+    start_date = None
+    end_date = None
 
     # 判断参数
     try:
         page = int(page)
         # 转换成时间对象
         if sd:
-            start_date = datetime.datetime.strptime(sd,'%Y-%m-%d')
+            start_date = datetime.datetime.strptime(sd, '%Y-%m-%d')
         if ed:
-            end_date = datetime.datetime.strptime(ed,'%Y-%m-%d')
+            end_date = datetime.datetime.strptime(ed, '%Y-%m-%d')
         if start_date and end_date:
-            assert start_date < end_date, Exception ('结束日期必须大于开始时间')
+            assert start_date < end_date, Exception('结束日期必须大于开始时间')
     except Exception as e:
         current_app.logger.error(e)
         return jsonify(errno=RET.PARAMERR, errmsg='参数错误')
 
     # 从缓存中获取数据
     try:
-        redis_name = 'house_list_%s_%s_%s_%s'%(aid,sk,sd,ed)
-        #取出缓存的值
-        resp = redis_store.hget(redis_name,page)
+        redis_name = 'house_list_%s_%s_%s_%s' % (aid, sk, sd, ed)
+        # 取出缓存的值
+        resp = redis_store.hget(redis_name, page)
         if resp:
-            return jsonify(errno=RET.OK, errmsg='OK',data=eval(resp))
+            return jsonify(errno=RET.OK, errmsg='OK', data=eval(resp))
     except Exception as e:
         current_app.logger.error(e)
 
@@ -65,11 +65,11 @@ def search_houses():
         # 通过搜索时间去查询冲突的订单
         conflict_orders = []
         if start_date and end_date:
-            conflict_orders = Order.query.filter(end_date>Order.begin_date,start_date<Order.end_date).all()
+            conflict_orders = Order.query.filter(end_date > Order.begin_date, start_date < Order.end_date).all()
 
         if conflict_orders:
             # 取到冲突订单里的所有id
-            conflict_house_ids = [order.house_id for order in conflict_orders ]
+            conflict_house_ids = [order.house_id for order in conflict_orders]
             house_query = house_query.filter(House.id.notin_(conflict_house_ids))
 
         if sk == 'booking':
@@ -82,7 +82,7 @@ def search_houses():
             house_query = house_query.order_by(House.create_time.desc())
 
         # 使用paginate进行分页
-        paginate = house_query.paginate(page,constants.HOUSE_LIST_PAGE_CAPACITY,False)
+        paginate = house_query.paginate(page, constants.HOUSE_LIST_PAGE_CAPACITY, False)
         # 当前页
         houses = paginate.items
         # 总页数
@@ -96,20 +96,20 @@ def search_houses():
     for house in houses:
         houses_dict.append(house.to_basic_dict())
 
-    resp={'total_page':total_page,'houses':houses_dict}
+    resp = {'total_page': total_page, 'houses': houses_dict}
 
     # 进行redis存储
     try:
-        redies_name = 'house_list_%s_%s_%s_%s'%(aid,sk,sd,ed)
+        redies_name = 'house_list_%s_%s_%s_%s' % (aid, sk, sd, ed)
         # 获取redis管道对象
         pipeline = redis_store.pipeline()
         # 开启事物
         pipeline.multi()
 
         # 设置数据
-        pipeline.hset(redis_name,page,resp)
+        pipeline.hset(redis_name, page, resp)
         # 设置数据过期时间
-        pipeline.expire(redis_name,constants.HOUSE_LIST_REDIS_EXPIRES)
+        pipeline.expire(redis_name, constants.HOUSE_LIST_REDIS_EXPIRES)
 
         # 执行,提交事务
         pipeline.execute()
@@ -117,7 +117,8 @@ def search_houses():
         current_app.logger.error(e)
 
     # 返回响应
-    return jsonify(errno=RET.OK, errmsg='OK',data=resp)
+    return jsonify(errno=RET.OK, errmsg='OK', data=resp)
+
 
 @api.route('/houses/index')
 def get_house_index():
@@ -131,7 +132,7 @@ def get_house_index():
     try:
         houses = House.query.order_by(House.create_time.desc()).limit(constants.HOME_PAGE_MAX_HOUSES)
     except Exception as e:
-        houses=[]
+        houses = []
         current_app.logger.error(e)
 
     # 将房屋列表转成字典类型
@@ -140,7 +141,7 @@ def get_house_index():
         house_dict_li.append(house.to_basic_dict())
 
     # 进行响应
-    return jsonify(errno=RET.OK, errmsg='OK',data=house_dict_li)
+    return jsonify(errno=RET.OK, errmsg='OK', data=house_dict_li)
 
 
 @api.route('/houses/<int:house_id>')
