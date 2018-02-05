@@ -1,4 +1,5 @@
 # -*- coding:utf-8 -*-
+import datetime
 from flask import current_app
 from flask import g
 from flask import jsonify
@@ -7,7 +8,7 @@ from flask import session
 from iHome import constants, db
 from iHome import redis_store
 from iHome.api_1_0 import api
-from iHome.models import Area, Facility, House, HouseImage
+from iHome.models import Area, Facility, House, HouseImage, Order
 from iHome.utils import image_storage
 from iHome.utils.common import login_required
 from iHome.utils.response_code import RET
@@ -26,15 +27,42 @@ def search_houses():
     sk= request.args.get('sk','new')
     page = request.args.get('p','1')
 
+    start_date =None
+    end_date =None
+
+    # 判断参数
     try:
         page = int(page)
+        # 转换成时间对象
+        if sd:
+            start_date = datetime.datetime.strptime(sd,'%Y-%m-%d')
+        if ed:
+            end_date = datetime.datetime.strptime(ed,'%Y-%m-%d')
+        if start_date and end_date:
+            assert start_date < end_date, Exception ('结束日期必须大于开始时间')
     except Exception as e:
         current_app.logger.error(e)
         return jsonify(errno=RET.PARAMERR, errmsg='参数错误')
 
+
+
     # 查询所有数据
     try:
         house_query = House.query
+
+        # 根据地区筛选
+        if aid:
+            house_query = house_query.filter(House.area_id == aid)
+
+        # 通过搜索时间去查询冲突的订单
+        conflict_orders = []
+        if start_date and end_date:
+            conflict_orders = Order.query.filter(end_date>Order.begin_date,start_date<Order.end_date).all()
+
+        if conflict_orders:
+            # 取到冲突订单里的所有id
+            conflict_house_ids = [order.house_id for order in conflict_orders ]
+            house_query = house_query.filter(House.id.notin_(conflict_house_ids))
 
         if sk == 'booking':
             house_query = house_query.order_by(House.order_count.desc())
