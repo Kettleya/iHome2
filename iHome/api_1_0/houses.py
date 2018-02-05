@@ -44,7 +44,15 @@ def search_houses():
         current_app.logger.error(e)
         return jsonify(errno=RET.PARAMERR, errmsg='参数错误')
 
-
+    # 从缓存中获取数据
+    try:
+        redis_name = 'house_list_%s_%s_%s_%s'%(aid,sk,sd,ed)
+        #取出缓存的值
+        resp = redis_store.hget(redis_name,page)
+        if resp:
+            return jsonify(errno=RET.OK, errmsg='OK',data=eval(resp))
+    except Exception as e:
+        current_app.logger.error(e)
 
     # 查询所有数据
     try:
@@ -83,12 +91,30 @@ def search_houses():
         current_app.logger.error(e)
         return jsonify(errno=RET.DBERR, errmsg='查询数据失败')
 
-    # 查询出所有房屋信息
+    # 查询出所有房屋信息,并转成字典
     houses_dict = []
     for house in houses:
         houses_dict.append(house.to_basic_dict())
 
     resp={'total_page':total_page,'houses':houses_dict}
+
+    # 进行redis存储
+    try:
+        redies_name = 'house_list_%s_%s_%s_%s'%(aid,sk,sd,ed)
+        # 获取redis管道对象
+        pipeline = redis_store.pipeline()
+        # 开启事物
+        pipeline.multi()
+
+        # 设置数据
+        pipeline.hset(redis_name,page,resp)
+        # 设置数据过期时间
+        pipeline.expire(redis_name,constants.HOUSE_LIST_REDIS_EXPIRES)
+
+        # 执行,提交事务
+        pipeline.execute()
+    except Exception as e:
+        current_app.logger.error(e)
 
     # 返回响应
     return jsonify(errno=RET.OK, errmsg='OK',data=resp)

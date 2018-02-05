@@ -4007,3 +4007,52 @@ IOError: [Errno 32] Broken pipe
 %s %s:%d 127.0.0.1 - - [05/Feb/2018 16:07:17] "GET /api/v1.0/houses?aid=3&sd=2018-02-05&ed=2018-02-16&sk=new&p=1 HTTP/1.1" 200 -
 %s %s:%d ImmutableMultiDict([('sk', u'new'), ('ed', u'2018-02-16'), ('sd', u'2018-02-05'), ('p', u'1'), ('aid', u'15')])
 %s %s:%d 127.0.0.1 - - [05/Feb/2018 16:07:22] "GET /api/v1.0/houses?aid=15&sd=2018-02-05&ed=2018-02-16&sk=new&p=1 HTTP/1.1" 200 -
+%s %s:%d  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+%s %s:%d  * Restarting with stat
+%s %s:%d  * Debugger is active!
+%s %s:%d  * Debugger PIN: 273-071-860
+%s %s:%d 127.0.0.1 - - [05/Feb/2018 17:06:33] "GET /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [05/Feb/2018 17:06:42] "GET /api/v1.0/houses/index HTTP/1.1" 200 -
+%s %s:%d Error on request:
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/Flask_py/lib/python2.7/site-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/home/python/.virtualenvs/Flask_py/lib/python2.7/site-packages/werkzeug/serving.py", line 261, in execute
+    write(data)
+  File "/home/python/.virtualenvs/Flask_py/lib/python2.7/site-packages/werkzeug/serving.py", line 227, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+%s %s:%d 127.0.0.1 - - [05/Feb/2018 17:06:42] "GET /api/v1.0/areas HTTP/1.1" 200 -
+%s %s:%d Error on request:
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/Flask_py/lib/python2.7/site-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/home/python/.virtualenvs/Flask_py/lib/python2.7/site-packages/werkzeug/serving.py", line 261, in execute
+    write(data)
+  File "/home/python/.virtualenvs/Flask_py/lib/python2.7/site-packages/werkzeug/serving.py", line 227, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+%s %s:%d 127.0.0.1 - - [05/Feb/2018 17:06:42] "GET /api/v1.0/session HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [05/Feb/2018 17:06:42] "GET /api/v1.0/houses/index HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [05/Feb/2018 17:06:42] "GET /api/v1.0/areas HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [05/Feb/2018 17:06:47] "GET /search.html?aid=&aname=&sd=&ed= HTTP/1.1" 304 -
+%s %s:%d 127.0.0.1 - - [05/Feb/2018 17:06:47] "GET /api/v1.0/areas HTTP/1.1" 200 -
+%s %s:%d ImmutableMultiDict([('sk', u'new'), ('ed', u''), ('sd', u''), ('p', u'1'), ('aid', u'')])
+%s %s:%d 127.0.0.1 - - [05/Feb/2018 17:06:48] "GET /api/v1.0/houses?aid=&sd=&ed=&sk=new&p=1 HTTP/1.1" 200 -
+%s %s:%d ImmutableMultiDict([('sk', u'price-inc'), ('ed', u''), ('sd', u''), ('p', u'1'), ('aid', u'')])
+%s %s:%d 127.0.0.1 - - [05/Feb/2018 17:06:51] "GET /api/v1.0/houses?aid=&sd=&ed=&sk=price-inc&p=1 HTTP/1.1" 200 -
+%s %s:%d ImmutableMultiDict([('sk', u'price-inc'), ('ed', u''), ('sd', u''), ('p', u'1'), ('aid', u'1')])
+%s %s:%d 127.0.0.1 - - [05/Feb/2018 17:06:53] "GET /api/v1.0/houses?aid=1&sd=&ed=&sk=price-inc&p=1 HTTP/1.1" 200 -
+%s %s:%d ImmutableMultiDict([('sk', u'price-inc'), ('ed', u''), ('sd', u''), ('p', u'1'), ('aid', u'1')])
+%s %s:%d 127.0.0.1 - - [05/Feb/2018 17:06:55] "GET /api/v1.0/houses?aid=1&sd=&ed=&sk=price-inc&p=1 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [05/Feb/2018 17:06:57] "GET /detail.html?id=1 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [05/Feb/2018 17:06:57] "GET /static/css/ihome/detail.css HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [05/Feb/2018 17:06:57] "GET /static/js/ihome/detail.js HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [05/Feb/2018 17:06:58] "GET /api/v1.0/houses/1 HTTP/1.1" 200 -
+%s %s:%d 127.0.0.1 - - [05/Feb/2018 17:06:58] "GET /static/images/houseicon_sprite.png HTTP/1.1" 200 -
+%s %s:%d ImmutableMultiDict([('sk', u'new'), ('ed', u''), ('sd', u''), ('p', u'1'), ('aid', u'')])
+%s %s:%d 127.0.0.1 - - [05/Feb/2018 17:07:09] "GET /api/v1.0/houses?aid=&sd=&ed=&sk=new&p=1 HTTP/1.1" 200 -
