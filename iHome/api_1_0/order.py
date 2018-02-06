@@ -10,6 +10,45 @@ from iHome.utils.common import login_required
 from iHome.utils.response_code import RET
 
 
+@api.route('/orders')
+@login_required
+def order_list():
+    """
+    获取当前房客(或房东)的所有订单
+    :return:
+    """
+    user_id = g.user_id
+    role = request.args.get('role') # 如果role是landlord表示房东,是customer表示房客
+
+    # 判断参数
+    if not all([user_id,role]):
+        return jsonify(errno=RET.PARAMERR, errmsg='参数有误')
+
+    if role not in('landlord','customer'):
+        return jsonify(errno=RET.PARAMERR, errmsg='参数有误')
+
+    # 查询数据
+    try:
+        if role == 'landlord':
+            # 查询房东的所有的订单
+            houses = House.query.filter(House.user_id == user_id).all()
+            # 获取到房屋id
+            house_id = [house.id for house in houses]
+            orders = Order.query.filter(Order.user_id.in_(house_id)).all()
+        elif role == 'customer':
+            # 查询房客所有订单
+            orders = Order.query.filter(Order.user_id == user_id).all()
+    except Exception as e:
+        current_app.logger.error(e)
+        return jsonify(errno=RET.DBERR, errmsg='查询数据失败')
+
+    # 转成字典列表
+    order_list_li = []
+    for order in orders:
+        order_list_li.append(order.to_dict())
+
+    return jsonify(errno=RET.OK, errmsg='OK',data=order_list_li)
+
 @api.route("/orders", methods=["POST"])
 @login_required
 def create_order():
