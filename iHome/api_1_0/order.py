@@ -10,6 +10,43 @@ from iHome.utils.common import login_required
 from iHome.utils.response_code import RET
 
 
+@api.route('/orders/<order_id>', methods=['PUT'])
+@login_required
+def set_order_status(order_id):
+    """
+    1.根据order_id查询订单
+    2.判断该用户是否为该房屋的房东
+    3.修改订单状态
+    4.保存订单到数据库
+    5.给出响应
+    :return:
+    """
+    try:
+        order = Order.query.filter(Order.id==order_id,Order.status == 'WAIT_ACCEPT').first()
+    except Exception as e:
+        current_app.logger.error(e)
+        return jsonify(errno=RET.DBERR, errmsg='查询数据失败')
+
+    if not order:
+        return jsonify(errno=RET.NODATA, errmsg='订单不存在')
+
+    # 2.判断当前登陆用户是否为该订单对应的房东用户
+    user_id = g.user_id
+    landlord_id = order.house.user_id
+    if user_id != landlord_id:
+        return jsonify(errno=RET.ROLEERR, errmsg='不允许修改订单状态')
+
+    # 修改订单的状态
+    order.status = "WAIT_COMMENT"
+
+    try:
+        db.session.commit()
+    except Exception as e:
+        current_app.logger.error(e)
+        return jsonify(errno=RET.DBERR, errmsg='修改订单状态失败')
+
+    return jsonify(errno=RET.OK, errmsg='OK')
+
 @api.route('/orders')
 @login_required
 def order_list():
@@ -18,13 +55,13 @@ def order_list():
     :return:
     """
     user_id = g.user_id
-    role = request.args.get('role') # 如果role是landlord表示房东,是customer表示房客
+    role = request.args.get('role')  # 如果role是landlord表示房东,是customer表示房客
 
     # 判断参数
-    if not all([user_id,role]):
+    if not all([user_id, role]):
         return jsonify(errno=RET.PARAMERR, errmsg='参数有误')
 
-    if role not in('landlord','customer'):
+    if role not in ('landlord', 'customer'):
         return jsonify(errno=RET.PARAMERR, errmsg='参数有误')
 
     # 查询数据
@@ -47,7 +84,8 @@ def order_list():
     for order in orders:
         order_list_li.append(order.to_dict())
 
-    return jsonify(errno=RET.OK, errmsg='OK',data=order_list_li)
+    return jsonify(errno=RET.OK, errmsg='OK', data=order_list_li)
+
 
 @api.route("/orders", methods=["POST"])
 @login_required
