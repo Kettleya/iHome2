@@ -21,31 +21,49 @@ def set_order_status(order_id):
     5.给出响应
     :return:
     """
+    # 0 取到对应的事件<接单还是拒单>
+    action = request.args.get("action")
+
+    if action not in ("accept", "reject"):
+        return jsonify(errno=RET.PARAMERR, errmsg="参数错误")
+
+    # 1. order_id找到对应的订单
     try:
-        order = Order.query.filter(Order.id==order_id,Order.status == 'WAIT_ACCEPT').first()
+        order = Order.query.filter(Order.id == order_id, Order.status == "WAIT_ACCEPT").first()
     except Exception as e:
         current_app.logger.error(e)
-        return jsonify(errno=RET.DBERR, errmsg='查询数据失败')
+        return jsonify(errno=RET.DBERR, errmsg="查询数据错误")
 
     if not order:
-        return jsonify(errno=RET.NODATA, errmsg='订单不存在')
+        return jsonify(errno=RET.NODATA, errmsg="订单不存在")
 
-    # 2.判断当前登陆用户是否为该订单对应的房东用户
+    # 2. 判断当前登录用户是否该订单对应房屋的房东
     user_id = g.user_id
+    # 取当前订单的房东的id
     landlord_id = order.house.user_id
     if user_id != landlord_id:
-        return jsonify(errno=RET.ROLEERR, errmsg='不允许修改订单状态')
+        return jsonify(errno=RET.ROLEERR, errmsg="不允许修改订单状态")
 
-    # 修改订单的状态
-    order.status = "WAIT_COMMENT"
+    # 3. 修改订单状态
+    if action == "accept":
+        order.status = "WAIT_COMMENT"
+    else:
+        order.status = "REJECTED"
+        reason = request.json.get("reason")
+        if not reason:
+            return jsonify(errno=RET.PARAMERR, errmsg="请输入拒单原因")
+        # 设置拒单原因
+        order.comment = reason
 
     try:
         db.session.commit()
     except Exception as e:
+        db.session.rollback()
         current_app.logger.error(e)
-        return jsonify(errno=RET.DBERR, errmsg='修改订单状态失败')
+        return jsonify(errno=RET.DBERR, errmsg="修改订单状态失败")
 
-    return jsonify(errno=RET.OK, errmsg='OK')
+    return jsonify(errno=RET.OK, errmsg="OK")
+
 
 @api.route('/orders')
 @login_required
